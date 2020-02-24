@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoSampleProject</string>
+    <string name="tab_main">Главная</string>
+    <string name="tab_tv_chanel">ТВ каналы</string>
+    <string name="tab_all_video">Все видео</string>
+    <string name="tab_my_premier">Мой PREMIER</string>
+    <string name="search">Поиск</string>
+    <string name="text_all">Все</string>
+    <string name="error_no_loaded_collections">В подборке коллекцию фильмов ничего нет</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_main"
+        android:title="@string/tab_main" />
+
+    <item
+        android:icon="@drawable/ic_tv"
+        android:title="@string/tab_tv_chanel" />
+
+    <item
+        android:icon="@drawable/ic_all_video"
+        android:title="@string/tab_all_video" />
+
+    <item
+        android:icon="@drawable/ic_premier"
+        android:title="@string/tab_my_premier" />
+</menu>
